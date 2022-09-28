@@ -1,0 +1,4 @@
+- start by setting up the django project, create news_api app, then register the app.
+- pipenv install requests. 
+- inside views.py import requests. 
+- 
